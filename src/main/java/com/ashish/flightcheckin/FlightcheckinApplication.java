@@ -1,4 +1,4 @@
-package com.bharath.flightcheckin;
+package com.ashish.flightcheckin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

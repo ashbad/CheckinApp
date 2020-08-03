@@ -1,4 +1,4 @@
-package com.bharath.flightcheckin.integration.dto;
+package com.ashish.flightcheckin.integration.dto;
 
 import java.sql.Timestamp;
 import java.util.Date;

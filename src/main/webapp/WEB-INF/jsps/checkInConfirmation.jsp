@@ -8,7 +8,7 @@
 </head>
 <body>
 
-Check in completed Successfully.
+Check in for you Completed Successfully.
 
 </body>
 </html>

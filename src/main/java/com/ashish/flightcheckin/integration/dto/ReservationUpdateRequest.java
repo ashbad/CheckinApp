@@ -1,4 +1,4 @@
-package com.bharath.flightcheckin.integration.dto;
+package com.ashish.flightcheckin.integration.dto;
 
 public class ReservationUpdateRequest {
 	

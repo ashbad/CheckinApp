@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Start Check In</title>
+<title>Start Check In For AirLine</title>
 </head>
 <body>
 <h2>Start Checkin:</h2>
